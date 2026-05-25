@@ -1,0 +1,27 @@
+### 📝 Key Takeaways
+- **Neovim as an IDE**  
+  You learned that Primeagen doesn’t use a traditional IDE like VS Code — 
+  instead, he customizes **Neovim** with plugins to make it behave like one.
+
+- **Plugins = Extensions**  
+  Plugins are add‑ons that expand Neovim’s capabilities 
+  (file explorers, fuzzy finders, Git tools, AI assistants, etc.). 
+  They’re what transform Neovim from a simple editor into a 
+  powerful development environment.
+
+- **AI Agents in Neovim**  
+  Primeagen integrates agents (like Copilot or custom AI assistants) into Neovim using:
+  - Dedicated AI plugins (e.g., `Copilot.vim`, `ChatGPT.nvim`)  
+  - Neovim’s built‑in terminal to run local LLMs or external processes  
+  - Custom Lua scripts that send code snippets to an agent and paste back responses  
+
+- **Customization Philosophy**  
+  His approach shows that Neovim is more of a *platform* than just an editor — 
+  you build your own workflow by stacking plugins and scripts, 
+  rather than relying on a fixed IDE.
+
+---
+
+⚡ In short: you’ve learned that Primeagen’s “IDE” is really 
+**Neovim + plugins + custom Lua**, and that agents can be run inside it either 
+through plugins or by wiring Neovim to external AI processes.  

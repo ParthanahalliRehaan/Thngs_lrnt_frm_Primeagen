@@ -1,0 +1,46 @@
+## What We Learned (whether we wanted to or not)
+
+### 1. Gmail address weirdness
+
+Gmail treats all of these as the **same inbox**:
+
+* `abc@gmail.com`
+* `a.bc@gmail.com`
+* `ab.c@gmail.com`
+* `abc+anything@gmail.com`
+
+**New fact:**
+Gmail ignores dots and everything after a plus-sign in the username portion.
+
+### 2. “Dumbest sec timeline”
+
+This phrase just means:
+
+* “We’re living in the stupidest moment of human existence.”
+  No science, just internet melodrama. Congrats, that’s all it was.
+
+### 3. How not to make a security-incident timeline
+
+Primeagen roasted someone who started a SecOps timeline with:
+
+* “Lovable launched”
+
+Which is:
+
+* meaningless for incident investigation
+* equivalent to starting with **Adam and Eve** in a technical report
+* basically adding lore instead of information
+
+**New fact:**
+A security timeline should start with the event that broke things, not the origin story of the product.
+
+### 4. Vercel-style fluff
+
+He compared the “Lovable launched” nonsense to the overly inspirational timelines sometimes seen in **Vercel**-style marketing content.
+
+**New fact:**
+Primeagen hates when technical documents get padded with inspirational filler.
+
+---
+
+That’s the full list. We learned Gmail quirks, internet slang, and how not to write an incident report. Not exactly a PhD, but at least it’s functional knowledge.
