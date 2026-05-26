@@ -1,0 +1,29 @@
+### 🧾 SOC 2 in Plain Words
+- **SOC** means *Service Organization Control*.  
+- **SOC 2** is a set of rules that companies follow to show they keep customer data safe.  
+- It’s like a **report card** for how well a company protects information.  
+
+### 🔑 What It Checks
+SOC 2 auditors look at five areas (called “Trust Service Criteria”):
+1. **Security** – Are systems protected from hackers?  
+2. **Availability** – Is the service reliable and up when customers need it?  
+3. **Processing Integrity** – Does the system work correctly without errors?  
+4. **Confidentiality** – Is sensitive data kept private?  
+5. **Privacy** – Are personal details handled properly?  
+
+### 🏢 Why Companies Care
+- Big clients often **require** SOC 2 before they’ll work with a startup.  
+- It builds **trust**: customers know their data won’t be misused.  
+- It’s not “made up” — it’s an official auditing standard created by the **American Institute of CPAs (AICPA)**.  
+
+### 🎬 Why Primeagen Joked About It
+Primeagen was being playful: compliance frameworks can feel **boring and bureaucratic**, so he exaggerated by saying “SOC 2 compliance is made up.” But in reality, it’s very real and important for SaaS companies.
+
+---
+
+Think of SOC 2 like the **locks and alarm system on a house**:  
+- The lock = Security  
+- The alarm = Availability (alerts if something goes wrong)  
+- The blueprint = Processing integrity (house built correctly)  
+- Curtains = Confidentiality (privacy inside)  
+- Guest rules = Privacy (how visitors’ info is handled)  

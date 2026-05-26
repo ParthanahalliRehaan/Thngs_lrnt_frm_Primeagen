@@ -1,0 +1,32 @@
+### What ""SOC2 Compliance", Why not "SOC2 framework"
+### 🕵️ What “Audited” Means
+- To **audit** something is to **check it carefully against a standard**.  
+- In SOC 2, an **independent auditor** (usually a certified accounting or security firm) examines a company’s systems, policies, and evidence.  
+- They don’t just take the company’s word — they **verify** that the company is actually following the rules in the SOC 2 framework.
+
+### 🔍 How It Works in SOC 2
+1. **Preparation** – The company sets up security controls (like access restrictions, monitoring, backups).  
+2. **Evidence Collection** – Logs, policies, and system records are gathered.  
+3. **Audit** – The auditor reviews all this evidence, interviews staff, and tests systems.  
+4. **Report** – If everything matches the SOC 2 framework, the auditor issues a compliance report.  
+
+### 🎯 Analogy
+Imagine a **school exam**:
+- The **syllabus** = SOC 2 framework (rules).  
+- The **exam** = audit (test).  
+- The **teacher grading** = auditor checking your answers.  
+- Passing = SOC 2 compliance.  
+
+So when a company says “we are SOC 2 compliant,” it means they’ve been **audited and certified** by an external professional, not just claiming it themselves.
+
+---
+                A **manifesto** is a formal written statement that publicly declares the beliefs, goals, and intentions of an individual, group, or organization. It’s often used in politics, art, or social movements to outline a vision for change or to rally support.  
+
+                ✨ Think of it like a roadmap of values and commitments — not just what someone believes, but what they *plan to do* about those beliefs.  
+
+                ### Examples:
+                - 📜 **Political**: A party’s election manifesto might list promises like improving healthcare, education, or infrastructure.  
+                - 🎨 **Artistic**: The *Futurist Manifesto* (1909) declared a radical break from tradition, celebrating speed, technology, and modernity.  
+                - 🌍 **Social/Personal**: Someone might write a personal manifesto about living sustainably, focusing on family, or pursuing meaningful work.  
+
+                In short, it’s more than just an opinion — it’s a **public declaration of intent**.  
