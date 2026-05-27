@@ -1,0 +1,51 @@
+## 🕹️ Amarchy
+- **What it is**: A coding competition/game by ThePrimeagen.  
+- **How it works**: Developers write code to control agents in a chaotic shared arena.  
+- **Setup**: Clone his GitHub repo, install dependencies (Node.js or Rust), and run locally.  
+- **Purpose**: Fun, educational, and community-driven — often showcased live on Twitch.  
+
+---
+
+## 💻 Omarchy
+- **What it is**: A Linux distribution/community project.  
+- **Origin**: Founded by DHH, supported by ThePrimeagen and others.  
+- **Philosophy**: Reimagines Linux for usability, aesthetics, and developer experience.  
+- **Setup**: Download ISO, install like Ubuntu/Arch, or test in a VM.  
+- **Community**: Events like **OMACON** highlight its growth and tools.  
+
+---
+
+## 🟩 AD Lines in Neovim (Git sense)
+- **Full form**: **Added/Deleted lines**.  
+- **What they are**: Markers in the gutter showing Git changes.  
+- **Colors**: Green (added), Red (deleted), Blue (modified).  
+- **Plugin**: Typically `gitsigns.nvim`.  
+- **Purpose**: Lets you track changes inline without running `git diff`.  
+
+---
+
+## 📏 AD Lines in Neovim (Primeagen’s usage)
+- **Full form (his usage)**: **Align/Discipline lines**.  
+- **What they are**: Huge vertical lines spanning the entire page, placed at a fixed column (e.g., 80 or 100).  
+- **Implementation**: Configured with Neovim’s `colorcolumn` option (`set colorcolumn=80`) or styled with plugins.  
+- **Purpose**:  
+  - Acts as a **visual ruler**.  
+  - Enforces line length discipline (don’t exceed 80–100 chars).  
+  - Provides a strong visual anchor across the buffer.  
+
+---
+
+## 📐 Indent Guides (the other vertical lines)
+- **What they are**: Vertical lines marking indentation levels.  
+- **Plugins**: `indent-blankline.nvim` or `mini.indentscope`.  
+- **Purpose**: Helps visualize nested code blocks and scope depth.  
+- **Appearance**: Multiple thin vertical lines aligned with each indent level.  
+
+---
+
+## ✅ Final Takeaway
+- **Amarchy** → chaotic coding battle arena.  
+- **Omarchy** → Linux distro/community project.  
+- **AD lines (Git)** → Added/Deleted markers in the gutter.  
+- **AD lines (Primeagen’s ruler)** → Bold vertical guide in the middle of the page for code discipline.  
+- **Indent guides** → Multiple vertical lines marking nested code structure.  

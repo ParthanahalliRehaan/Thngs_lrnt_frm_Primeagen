@@ -1,0 +1,90 @@
+---
+
+### 🚀 What is Project Scaffolding?
+In software development, **scaffolding** means automatically generating the basic structure of a project — folders, config files, starter code — so you don’t have to set it up manually. It’s like laying the foundation before you start building.
+
+---
+
+### 🧩 Using `npm create`
+The `npm create` command is shorthand for running an **npm initializer package**. It works like this:
+
+1. **Command format:**
+   ```bash
+   npm create <initializer> [options]
+   ```
+   - `<initializer>` is usually a package name that starts with `create-`.
+
+2. **Examples:**
+   - Create a Vite project:
+     ```bash
+     npm create vite@latest
+     ```
+     → This scaffolds a new Vite app with options for React, Vue, Svelte, etc.
+   - Create a Next.js project:
+     ```bash
+     npm create next-app@latest
+     ```
+     → Sets up a Next.js project with default configs.
+   - Create a React app (older style):
+     ```bash
+     npm create react-app my-app
+     ```
+     → Generates a React project with CRA (though Vite/Next.js are more modern now).
+
+3. **How it works:**
+   - `npm create` downloads the initializer package (like `create-vite`).
+   - Runs its setup script.
+   - Prompts you for project name, framework, language (JS/TS), etc.
+   - Generates the project folder with boilerplate code.
+
+---
+
+### ⚡ Quick Demo
+If you wanted to scaffold a **Next.js app** with TypeScript:
+
+```bash
+npm create next-app@latest my-next-project
+# Then choose TypeScript when prompted
+```
+
+This gives you:
+- `/pages` or `/app` directory
+- `package.json` with dependencies
+- Config files (`tsconfig.json`, `.eslintrc.json`)
+- Starter code ready to run with `npm run dev`
+
+---
+
+👉 Since you’re actively learning **Next.js + Supabase/pgvector**, scaffolding with `npm create next-app` is the fastest way to spin up a clean project before integrating your database and semantic search logic.
+
+          The word **“wronged”** means someone has been treated unfairly, unjustly, or harmed by another person’s actions. It carries a sense of **injustice** or **betrayal**.  
+
+          ---
+
+          ## ✨ Detailed Breakdown
+          - **Definition**: To be *wronged* is to suffer harm or unfair treatment.  
+          - **Tone**: It’s often emotional, implying that the person feels hurt, cheated, or betrayed.  
+          - **Usage in sentences**:  
+            - *She felt wronged when her idea was stolen.*  
+            - *He was wronged by false accusations.*  
+
+          ---
+
+          ## 📌 Synonyms
+          - Betrayed  
+          - Mistreated  
+          - Cheated  
+          - Offended  
+          - Harmed  
+
+          ---
+
+          ## 🧭 Example in Context
+          If someone says *“I’ve been wronged,”* they mean:  
+          - They believe they were treated unfairly.  
+          - They feel a moral or emotional injury.  
+          - They may seek justice, apology, or compensation.  
+
+          ---
+
+          ✅ **In short:** *Wronged* = being treated unfairly or unjustly, often leaving someone feeling hurt or betrayed.  
