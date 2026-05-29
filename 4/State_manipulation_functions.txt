@@ -1,0 +1,28 @@
+### 🔑 What it means
+- **State** = the data your program holds at any given time (variables, objects, memory, database rows, etc.).
+- **Manipulation** = how that state changes over time (mutations, updates, transitions).
+- **Functions** = the tools we use to perform those manipulations.
+
+Primeagen’s argument is that **functions are secondary — they’re just mechanisms. What really matters is the *state* and how it evolves.** If you don’t understand the state, your functions are meaningless.  
+
+Think of it like this:
+- A game character’s **health bar** (state) matters more than the function `takeDamage()`.  
+- A bank account’s **balance** (state) matters more than the function `deposit()`.  
+- A web app’s **UI state** (logged in vs logged out) matters more than the function `renderLoginForm()`.
+
+### ⚖️ Why this perspective matters
+- **Complexity lives in state**: Bugs usually come from state mismanagement (race conditions, stale values, inconsistent updates).
+- **Functions are replaceable**: You can rewrite a function in many ways, but if your state model is wrong, the whole system collapses.
+- **Architecture focus**: Good programmers design *state flows* first (what data exists, how it changes, who owns it), then write functions to support that.
+
+### 🧩 Analogy
+Imagine a chess game:
+- The **board and pieces** = state.  
+- The **moves** = manipulation.  
+- The **rules for moving pieces** = functions.  
+
+If you don’t track the board state correctly, no amount of perfect move functions will save you — you’ll be playing nonsense.
+
+---
+
+👉 So Primeagen is basically saying: *Don’t worship functions. Focus on modeling and managing state, because that’s where the real complexity and power of programming lies.*  

@@ -1,0 +1,25 @@
+## 🔹 Primeagen’s Sense
+- **Reinventing the wheel = reimplementing existing solutions yourself.**  
+- Purpose: **to understand deeply how they work**, not to ship production code.  
+- Example:  
+  - Instead of just using `Array.sort()`, write your own sorting algorithm to grasp the mechanics.  
+  - Instead of relying on a framework, build a small web server from scratch to learn the fundamentals.  
+
+---
+
+## 🔹 Why It Matters
+- **Learning by doing:** You internalize concepts better when you rebuild them.  
+- **Demystification:** Complex tools stop feeling like “magic” once you’ve seen the gears inside.  
+- **Confidence:** Reinventing teaches you what’s essential, so you can debug, optimize, or innovate later.  
+
+---
+
+## 🔹 Quick Analogy
+Think of it like **rebuilding a bicycle**:  
+- Buying one is efficient.  
+- But if you take it apart and rebuild it, you’ll understand gears, brakes, and balance.  
+- That knowledge makes you a better rider and mechanic—even if you don’t plan to manufacture bikes.
+
+---
+
+✅ **Primeagen’s meaning:** *Reinventing the wheel is a deliberate exercise in re-creation, done not for efficiency but for mastery.*  

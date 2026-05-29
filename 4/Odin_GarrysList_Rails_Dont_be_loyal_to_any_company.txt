@@ -1,0 +1,28 @@
+## 📝 Summary of Terms & Jokes
+
+- **Ruby on Rails**  
+  - A popular web framework in Ruby.  
+  - Known for rapid prototyping and “convention over configuration.”  
+
+- **“Odin” → The Odin Project / Odin Language**  
+  - Likely referring to **The Odin Project**, a free curriculum for learning web development (including Rails).  
+  - Sometimes also refers to the **Odin programming language**, a modern systems language.  
+
+---
+
+## 🎭 Primeagen’s Style
+- He deliberately **misnames frameworks and platforms** for comedic effect.  
+- Blends real dev history (Rails, Odin Project) with absurd humor to keep streams entertaining.  
+
+---
+
+## 💡 Key Takeaway
+Primeagen wasn’t introducing new tools—he was jokingly referencing **existing frameworks and platforms**:
+- Rails → web framework.  
+- Odin Project → beginner web dev learning path.  
+
+---
+
+
+"Don't be loyal to any company, if its not your's. Be smart, if companies budget doesn't match your's salary they lay you off. So,
+if you notice that company's market value is decreasing, start looking for new job's"
